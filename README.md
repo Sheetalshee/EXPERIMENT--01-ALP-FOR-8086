@@ -1,10 +1,10 @@
 # EXPERIMENT--01-ALP-FOR-8086
 
-Name : AADHITH S
+Name : SHEETAL.R
 
-Roll no : 212224220002
+Roll no : 212223230206
 
-Date of experiment : 02/02/2026
+Date of experiment : 06/02/2026
 
 ## Aim: To Write an execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
